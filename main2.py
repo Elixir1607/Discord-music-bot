@@ -10,4 +10,4 @@ bot.remove_command('help')
 bot.add_cog(help_cog(bot))
 bot.add_cog(music_cog(bot))
 
-bot.run('MTA1Mjk4NDQ2ODAyMzAyMTY2OA.Gwndpz.a1fi7qP1B1Cc6K4vv_p_bDNJKT2K6z-o_yCgkM')
+bot.run('your token')
